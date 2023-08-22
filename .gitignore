@@ -1,0 +1,7 @@
+node_modules
+.env
+package-lock.json
+
+/twitterCloneClient/node_modules
+/twitterCloneClient/package-lock.json
+/twitterCloneClient/build
